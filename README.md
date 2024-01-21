@@ -2,7 +2,8 @@ Hi there 👋<br/>
 Happy to see you here! Let me introduce myself.<br/>
 I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces.
 
-I craft thoughtful, intuitive interfaces that captivate users and enhance their experiences. With expertise in React.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Node.js, Express.js, MongoDB, Firebase, and more, I bring ideas to life and build dynamic web applications. 🚀
+I craft thoughtful, intuitive interfaces that captivate users and enhance their experiences. 
+<!--With expertise in React.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Node.js, Express.js, MongoDB, Firebase, and more, I bring ideas to life and build dynamic web applications. 🚀-->
 
 I'm an eternal learner, constantly exploring and keeping up with the latest trends. But my curiosity extends beyond development. I embrace diverse domains and thrive on multidisciplinary knowledge. 📚
 
